@@ -1,0 +1,1 @@
+<?php if(($devmode = 0) > 0 ) { echo "<meta http-equiv='refresh' content='$devmode' >"; } ?>

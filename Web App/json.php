@@ -1,0 +1,1 @@
+	$temp_value  = json_encode($temp_value,JSON_UNESCAPED_UNICODE);

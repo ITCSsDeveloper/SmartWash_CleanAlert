@@ -1,0 +1,15 @@
+cleanAlert.ino
+declare.c
+setup.c
+ResetIC_74LS47.c
+Reset7seg.c
+shownum.c
+seven_segment_show.c
+power_check.c
+water_check.c
+process_check.c
+ReadVR.c
+printSerial.c
+simulator.c
+RFID_read.c
+loop.c
